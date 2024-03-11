@@ -13,10 +13,12 @@ body{
   text-align: center;
 
 }
+
 .cabecalho-imagem{
-  width: 1%;
-  margin: 2px 2px;
+  width: 15%;
+  margin:10px 10px;
 }
+
 .cabecalho-lista-item {
   display: flex;
   margin: 10px 5px;
