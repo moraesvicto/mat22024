@@ -1,3 +1,27 @@
 body{
-  background-color: #4158df;  
+  background-color: #4158df; 
+  margin: 30px ;
+  padding: 10px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',  
 }
+.cabecalho{
+  background-color:rgb(red, green, blue);
+  display: flex;
+  justify-content: space-around;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  text-align: center;
+
+}
+.cabecalho-imagem{
+  width:15%;
+  margin: 10px 10px;
+}
+.cabecalho-lista-item {
+  display: flex;
+  margin: 10px 5px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 12px;
+}
+
+
