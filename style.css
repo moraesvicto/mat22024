@@ -4,7 +4,7 @@ body{
   padding: 10px;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',  
 }
-.cabecalho{
+.cabecalho {
   background-color:rgb(red, green, blue);
   display: flex;
   justify-content: space-around;
