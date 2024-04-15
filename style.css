@@ -14,9 +14,9 @@ body{
 
 }
 
-.cabecalho-imagem {
-  width:20%;
-  margin:10px 10px;
+.cabecalho-imagem{
+  width: 20%;
+  margin: 10px 10px;
 }
 .cabecalho-lista-item {
   display: flex;
